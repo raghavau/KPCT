@@ -2,7 +2,7 @@
   <name>KPCT</name>
   <description>Krishnapatnam Port Container Terminal - Container Search Application</description>
   <author href="http://www.krishnapatnamport.com" email="support@krishnapatnamport.com">KPCL IT Team</author>
-  <content src="www/index.html"/>
+  <content src="index.html"/>
   <preference name="permissions" value="none"/>
   <preference name="orientation" value="default"/>
   <preference name="target-device" value="universal"/>
