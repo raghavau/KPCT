@@ -34,6 +34,7 @@
                 var redirect = function(){
                     $("#divloading").css('display', 'block');
                     $(location).attr('href',rurl);
+                    $("#divloading").css('display', 'none');
                 };
                 setTimeout(redirect, 3000);
             });
