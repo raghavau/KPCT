@@ -1,2 +1,2 @@
-# Project1
-Sample Project developed in Phone Gap
+# KPCT
+KPCT Container Search App
